@@ -1,0 +1,8 @@
+
+# Ignore project files.
+
+**/xcuserdata/
+
+# Ignore 
+
+.DS_Store
